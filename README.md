@@ -8,7 +8,7 @@ Writing things down allows us to think more carefully and to consider what we ha
 
 Is there a way of working that is universally applicable?
 
-What do we mean by quality code?
+What properties would you expect to see in a quality codebase?
 
 ## Conversations
 

@@ -16,10 +16,10 @@ What do we mean by quality code?
 
 ## Claims
 
-[it-is-not-about-the-tests](Notes/it-is-not-about-the-tests.md)
+[It Is Not About the Tests](Notes/it-is-not-about-the-tests.md)
 
 ## Index aka Lines of Enquiry
 
 A way in to the threads of ideas!
 
-.
+[Some of the reason people give for TDD being bad](Notes/some-of-the-reasons-people-give-for-tdd-being-bad.md)

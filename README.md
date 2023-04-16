@@ -18,6 +18,6 @@ What do we mean by quality code?
 
 [It is not about the tests](Notes/It%20is%20not%20about%20the%20tests.md)
 
-## Index
-A way in to the threads of ideas!
+## Index aka Lines of Enquiry
 
+A way in to the threads of ideas!

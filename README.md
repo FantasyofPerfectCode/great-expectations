@@ -13,3 +13,8 @@ What do we mean by quality code?
 ## Conversations
 
 [Why get to first principles](Why%20get%20to%20first%20principles.md)
+
+## Claims
+
+[It is not about the tests](It%20is%20not%20about%20the%20tests.md)
+

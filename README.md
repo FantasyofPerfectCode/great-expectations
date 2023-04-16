@@ -21,3 +21,5 @@ What do we mean by quality code?
 ## Index aka Lines of Enquiry
 
 A way in to the threads of ideas!
+
+.

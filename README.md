@@ -18,6 +18,10 @@ What properties would you expect to see in a quality codebase?
 
 [It Is Not About the Tests](Notes/it-is-not-about-the-tests.md)
 
+## Hypothesises
+
+[TDD and Contract Testing](Notes/tdd-and-contract-testing.html)
+
 ## Index aka Lines of Enquiry
 
 A way in to the threads of ideas!

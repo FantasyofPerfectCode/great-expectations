@@ -12,7 +12,7 @@ What do we mean by quality code?
 
 ## Conversations
 
-16/04/23: [Why get to first principles](Notes/Why%20get%20to%20first%20principles.md)
+16/04/23: [Why get to first principles](Notes/why-get-to-first-principles.html)
 
 ## Claims
 

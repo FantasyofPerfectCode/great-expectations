@@ -1,2 +1,0 @@
-# Common misunderstanding about TDD
-

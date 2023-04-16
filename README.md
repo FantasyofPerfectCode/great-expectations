@@ -16,7 +16,7 @@ What do we mean by quality code?
 
 ## Claims
 
-[It is not about the tests](Notes/It%20is%20not%20about%20the%20tests.md)
+[it-is-not-about-the-tests](Notes/it-is-not-about-the-tests.md)
 
 ## Index aka Lines of Enquiry
 

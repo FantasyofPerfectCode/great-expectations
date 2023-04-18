@@ -26,4 +26,5 @@ What properties would you expect to see in a quality codebase?
 
 A way in to the threads of ideas!
 
-[Some of the reason people give for TDD being bad](Notes/some-of-the-reasons-people-give-for-tdd-being-bad.md)
+[Some of the reason people give for TDD being bad](Notes/some-reasons-people-give-for-tdd-being-bad.md)
+[Scenarios in which TDD can help](Notes/scenarios-in-which-tdd-can-help.md)
